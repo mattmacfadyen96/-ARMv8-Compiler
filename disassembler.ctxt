@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=maxSize
+comment0.target=disassembler(int)
+comment1.params=instruction
+comment1.target=java.lang.String\ findType(java.lang.String)
+numComments=2

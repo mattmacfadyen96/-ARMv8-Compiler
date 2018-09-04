@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=register
+comment0.target=java.lang.String\ specialCases(java.lang.String)
+comment1.params=instruction
+comment1.target=java.lang.String\ getFormat(java.lang.String)
+comment2.params=instruction
+comment2.target=java.lang.String\ getBcond(java.lang.String)
+comment3.params=instruction
+comment3.target=java.lang.String\ getOpCode(java.lang.String)
+comment3.text=This\ method\ will\ be\ used\ to\ convert\ ARM\ assembly\ language\ instruction\ into\ the\ specified\ binary\ opcode\ that\ is\ needed\ \r\n\ to\ perform\ the\ needed\ command\ \r\n\ \r\n\ @param\ the\ core\ instruction\ in\ ARM\ in\ the\ form\ of\ a\ string\ \r\n\ @return\ the\ binary\ opcode\ of\ the\ instruction\ entered\ in\ the\ param\r\n
+comment4.params=binary_value
+comment4.target=java.lang.String\ getBinaryFormatted(java.lang.String)
+comment4.text=\r\n\ This\ method\ will\ be\ used\ to\ format\ the\ binary\ register\ strings\ so\ that\ they\ are\ always\ 5\ bits\ long.\ If\ they\ are\ not\ five\ bits\ long\ then\ this\ method\ \r\n\ will\ apend\ to\ the\ end\ of\ the\ string\ and\ make\ it\ so\ that\ it\ is\ 5\ bits\ in\ length\r\n\ @param\ unformatted\ binary\ string\ \r\n\ @return\ formatted\ binary\ string\ that\ is\ five\ bits\ in\ length\ for\ all\ of\ the\ registers\ \r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
