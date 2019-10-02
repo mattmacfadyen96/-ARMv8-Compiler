@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This project is to compile ARM assembly code and convert it into 
+the binary opcodes that represent the statement executions. 
+I used Java to do the string manipulation of all of the binary.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
+PROJECT TITLE: ARMv8-Compiler
 PURPOSE OF PROJECT:
-VERSION or DATE:
+VERSION or DATE: 1.0
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Matthew MacFadyen
 USER INSTRUCTIONS:
